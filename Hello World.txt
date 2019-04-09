@@ -2,6 +2,6 @@ public class Hello World {
 	
 	public static void main(String[] args) {
 		
-		System.println("Nu a Problem");
+		System.out.println("Different Hello world");
 	}
 }
