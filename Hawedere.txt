@@ -1,1 +1,3 @@
 ManifestRegisteredBroadcastReceiverTest1
+
+SliderBrushWithEventsTest1
