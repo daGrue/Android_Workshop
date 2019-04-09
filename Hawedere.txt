@@ -1,1 +1,1 @@
-Cooler Button
+ManifestRegisteredBroadcastReceiverTest1
